@@ -1,2 +1,2 @@
 # HTML-Assignments
-These are my Assignments of HTML
+These are my of HTML Assignments 
